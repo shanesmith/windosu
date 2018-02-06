@@ -3,6 +3,7 @@
   "version": "0.3.0",
   "description": "Windows sudo equivalent",
   "main": "lib/windosu.js",
+  "os": ["win32"],
   "bin": {
     "sudo": "./bin/sudo"
   },
